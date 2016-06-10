@@ -1,0 +1,151 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Risky Project Location:
+-----------------------
+The tools *should* handle project locations in any directory. However,
+due to bugs, placing projects in directories containing spaces in the
+path, or characters like ", ' and &, have had issues. We're working to
+eliminate these bugs, but to save yourself headaches you may want to
+move your project to a location where this is not a problem.
+C:\Android Studio Sdk\Cometcd
+          -      -           
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .idea\
+* .idea\.name
+* .idea\Cometcd.iml
+* .idea\compiler.xml
+* .idea\copyright\
+* .idea\copyright\profiles_settings.xml
+* .idea\encodings.xml
+* .idea\misc.xml
+* .idea\modules.xml
+* .idea\workspace.xml
+* CVS\
+* CVS\Entries
+* CVS\Entries.Extra
+* CVS\Entries.Extra.Old
+* CVS\Entries.Old
+* CVS\Repository
+* CVS\Root
+* CVS\Template
+* ic_launcher-web.png
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:22.2.1
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets
+* libs\trace.jar => app\libs\trace.jar
+* lint.xml => app\lint.xml
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+* src\com\agiledge\cdcomet\controller\CVS\Entries => app\src\main\resources\com\agiledge\cdcomet\controller\CVS\Entries
+* src\com\agiledge\cdcomet\controller\CVS\Entries.Extra => app\src\main\resources\com\agiledge\cdcomet\controller\CVS\Entries.Extra
+* src\com\agiledge\cdcomet\controller\CVS\Entries.Extra.Old => app\src\main\resources\com\agiledge\cdcomet\controller\CVS\Entries.Extra.Old
+* src\com\agiledge\cdcomet\controller\CVS\Entries.Old => app\src\main\resources\com\agiledge\cdcomet\controller\CVS\Entries.Old
+* src\com\agiledge\cdcomet\controller\CVS\Repository => app\src\main\resources\com\agiledge\cdcomet\controller\CVS\Repository
+* src\com\agiledge\cdcomet\controller\CVS\Root => app\src\main\resources\com\agiledge\cdcomet\controller\CVS\Root
+* src\com\agiledge\cdcomet\controller\CVS\Template => app\src\main\resources\com\agiledge\cdcomet\controller\CVS\Template
+* src\com\agiledge\cdcomet\CVS\Entries => app\src\main\resources\com\agiledge\cdcomet\CVS\Entries
+* src\com\agiledge\cdcomet\CVS\Entries.Extra => app\src\main\resources\com\agiledge\cdcomet\CVS\Entries.Extra
+* src\com\agiledge\cdcomet\CVS\Entries.Extra.Old => app\src\main\resources\com\agiledge\cdcomet\CVS\Entries.Extra.Old
+* src\com\agiledge\cdcomet\CVS\Entries.Old => app\src\main\resources\com\agiledge\cdcomet\CVS\Entries.Old
+* src\com\agiledge\cdcomet\CVS\Repository => app\src\main\resources\com\agiledge\cdcomet\CVS\Repository
+* src\com\agiledge\cdcomet\CVS\Root => app\src\main\resources\com\agiledge\cdcomet\CVS\Root
+* src\com\agiledge\cdcomet\CVS\Template => app\src\main\resources\com\agiledge\cdcomet\CVS\Template
+* src\com\agiledge\cdcomet\dto\CVS\Entries => app\src\main\resources\com\agiledge\cdcomet\dto\CVS\Entries
+* src\com\agiledge\cdcomet\dto\CVS\Entries.Extra => app\src\main\resources\com\agiledge\cdcomet\dto\CVS\Entries.Extra
+* src\com\agiledge\cdcomet\dto\CVS\Entries.Extra.Old => app\src\main\resources\com\agiledge\cdcomet\dto\CVS\Entries.Extra.Old
+* src\com\agiledge\cdcomet\dto\CVS\Entries.Old => app\src\main\resources\com\agiledge\cdcomet\dto\CVS\Entries.Old
+* src\com\agiledge\cdcomet\dto\CVS\Repository => app\src\main\resources\com\agiledge\cdcomet\dto\CVS\Repository
+* src\com\agiledge\cdcomet\dto\CVS\Root => app\src\main\resources\com\agiledge\cdcomet\dto\CVS\Root
+* src\com\agiledge\cdcomet\dto\CVS\Template => app\src\main\resources\com\agiledge\cdcomet\dto\CVS\Template
+* src\com\agiledge\cdcomet\gss\common\CVS\Entries => app\src\main\resources\com\agiledge\cdcomet\gss\common\CVS\Entries
+* src\com\agiledge\cdcomet\gss\common\CVS\Entries.Extra => app\src\main\resources\com\agiledge\cdcomet\gss\common\CVS\Entries.Extra
+* src\com\agiledge\cdcomet\gss\common\CVS\Entries.Extra.Old => app\src\main\resources\com\agiledge\cdcomet\gss\common\CVS\Entries.Extra.Old
+* src\com\agiledge\cdcomet\gss\common\CVS\Entries.Old => app\src\main\resources\com\agiledge\cdcomet\gss\common\CVS\Entries.Old
+* src\com\agiledge\cdcomet\gss\common\CVS\Repository => app\src\main\resources\com\agiledge\cdcomet\gss\common\CVS\Repository
+* src\com\agiledge\cdcomet\gss\common\CVS\Root => app\src\main\resources\com\agiledge\cdcomet\gss\common\CVS\Root
+* src\com\agiledge\cdcomet\gss\common\CVS\Template => app\src\main\resources\com\agiledge\cdcomet\gss\common\CVS\Template
+* src\com\agiledge\cdcomet\tasks\CVS\Entries => app\src\main\resources\com\agiledge\cdcomet\tasks\CVS\Entries
+* src\com\agiledge\cdcomet\tasks\CVS\Entries.Extra => app\src\main\resources\com\agiledge\cdcomet\tasks\CVS\Entries.Extra
+* src\com\agiledge\cdcomet\tasks\CVS\Entries.Extra.Old => app\src\main\resources\com\agiledge\cdcomet\tasks\CVS\Entries.Extra.Old
+* src\com\agiledge\cdcomet\tasks\CVS\Entries.Old => app\src\main\resources\com\agiledge\cdcomet\tasks\CVS\Entries.Old
+* src\com\agiledge\cdcomet\tasks\CVS\Repository => app\src\main\resources\com\agiledge\cdcomet\tasks\CVS\Repository
+* src\com\agiledge\cdcomet\tasks\CVS\Root => app\src\main\resources\com\agiledge\cdcomet\tasks\CVS\Root
+* src\com\agiledge\cdcomet\tasks\CVS\Template => app\src\main\resources\com\agiledge\cdcomet\tasks\CVS\Template
+* src\com\agiledge\cdcomet\view\adapter\CVS\Entries => app\src\main\resources\com\agiledge\cdcomet\view\adapter\CVS\Entries
+* src\com\agiledge\cdcomet\view\adapter\CVS\Entries.Extra => app\src\main\resources\com\agiledge\cdcomet\view\adapter\CVS\Entries.Extra
+* src\com\agiledge\cdcomet\view\adapter\CVS\Entries.Extra.Old => app\src\main\resources\com\agiledge\cdcomet\view\adapter\CVS\Entries.Extra.Old
+* src\com\agiledge\cdcomet\view\adapter\CVS\Entries.Old => app\src\main\resources\com\agiledge\cdcomet\view\adapter\CVS\Entries.Old
+* src\com\agiledge\cdcomet\view\adapter\CVS\Repository => app\src\main\resources\com\agiledge\cdcomet\view\adapter\CVS\Repository
+* src\com\agiledge\cdcomet\view\adapter\CVS\Root => app\src\main\resources\com\agiledge\cdcomet\view\adapter\CVS\Root
+* src\com\agiledge\cdcomet\view\adapter\CVS\Template => app\src\main\resources\com\agiledge\cdcomet\view\adapter\CVS\Template
+* src\com\agiledge\cdcomet\view\CVS\Entries => app\src\main\resources\com\agiledge\cdcomet\view\CVS\Entries
+* src\com\agiledge\cdcomet\view\CVS\Entries.Extra => app\src\main\resources\com\agiledge\cdcomet\view\CVS\Entries.Extra
+* src\com\agiledge\cdcomet\view\CVS\Entries.Extra.Old => app\src\main\resources\com\agiledge\cdcomet\view\CVS\Entries.Extra.Old
+* src\com\agiledge\cdcomet\view\CVS\Entries.Old => app\src\main\resources\com\agiledge\cdcomet\view\CVS\Entries.Old
+* src\com\agiledge\cdcomet\view\CVS\Repository => app\src\main\resources\com\agiledge\cdcomet\view\CVS\Repository
+* src\com\agiledge\cdcomet\view\CVS\Root => app\src\main\resources\com\agiledge\cdcomet\view\CVS\Root
+* src\com\agiledge\cdcomet\view\CVS\Template => app\src\main\resources\com\agiledge\cdcomet\view\CVS\Template
+* src\com\agiledge\CVS\Entries => app\src\main\resources\com\agiledge\CVS\Entries
+* src\com\agiledge\CVS\Entries.Extra => app\src\main\resources\com\agiledge\CVS\Entries.Extra
+* src\com\agiledge\CVS\Entries.Extra.Old => app\src\main\resources\com\agiledge\CVS\Entries.Extra.Old
+* src\com\agiledge\CVS\Entries.Old => app\src\main\resources\com\agiledge\CVS\Entries.Old
+* src\com\agiledge\CVS\Repository => app\src\main\resources\com\agiledge\CVS\Repository
+* src\com\agiledge\CVS\Root => app\src\main\resources\com\agiledge\CVS\Root
+* src\com\agiledge\CVS\Template => app\src\main\resources\com\agiledge\CVS\Template
+* src\com\CVS\Entries => app\src\main\resources\com\CVS\Entries
+* src\com\CVS\Entries.Extra => app\src\main\resources\com\CVS\Entries.Extra
+* src\com\CVS\Entries.Extra.Old => app\src\main\resources\com\CVS\Entries.Extra.Old
+* src\com\CVS\Entries.Old => app\src\main\resources\com\CVS\Entries.Old
+* src\com\CVS\Repository => app\src\main\resources\com\CVS\Repository
+* src\com\CVS\Root => app\src\main\resources\com\CVS\Root
+* src\com\CVS\Template => app\src\main\resources\com\CVS\Template
+* src\CVS\Entries => app\src\main\resources\CVS\Entries
+* src\CVS\Entries.Extra => app\src\main\resources\CVS\Entries.Extra
+* src\CVS\Entries.Extra.Old => app\src\main\resources\CVS\Entries.Extra.Old
+* src\CVS\Entries.Old => app\src\main\resources\CVS\Entries.Old
+* src\CVS\Repository => app\src\main\resources\CVS\Repository
+* src\CVS\Root => app\src\main\resources\CVS\Root
+* src\CVS\Template => app\src\main\resources\CVS\Template
+* Entries.Extra => Entries.extra
+* Entries.Extra.Old => Entries.extra.old
+* Entries.Old => Entries.old
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

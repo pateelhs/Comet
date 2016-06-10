@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\new cd\Cometcd\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\new cd\Cometcd\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.1_a0776ce756e9dc336975356d46808324bb1185cf.jar" />
+    </item>
+    <item
+        jar="C:\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\new cd\Cometcd\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1_a64af10406b9946df604d84de13139d7f50ff6ff.jar" />
+    </item>
+    <item
+        jar="C:\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\new cd\Cometcd\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1_a64af10406b9946df604d84de13139d7f50ff6ff.jar" />
+    </item>
+    <item
+        jar="C:\new cd\Cometcd\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\new cd\Cometcd\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1_a38b72e7658ea0f2058bf6f4e48ea1554b5fe299.jar" />
+    </item>
+    <item
+        jar="C:\new cd\Cometcd\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\new cd\Cometcd\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1_a38b72e7658ea0f2058bf6f4e48ea1554b5fe299.jar" />
+    </item>
+    <item
+        jar="C:\new cd\Cometcd\app\libs\trace.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="25bc0a30b13874fd49d529778c0c78cbe7225878">
+        <dex dex="C:\new cd\Cometcd\app\build\intermediates\pre-dexed\debug\trace_93c273928d9962a252a0b77e0dc2ce6fb1d39160.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pateel\.gradle\caches\modules-2\files-2.1\eu.the4thfloor.volley\com.android.volley\2015.05.28\b0b08cc0ac897e596abe6b263a9507cba875b705\com.android.volley-2015.05.28.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b0b08cc0ac897e596abe6b263a9507cba875b705">
+        <dex dex="C:\new cd\Cometcd\app\build\intermediates\pre-dexed\debug\com.android.volley-2015.05.28_8b62d65f495986cbd32aef597161f007f048e9ec.jar" />
+    </item>
+    <item
+        jar="C:\new cd\Cometcd\app\libs\trace.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="25bc0a30b13874fd49d529778c0c78cbe7225878">
+        <dex dex="C:\new cd\Cometcd\app\build\intermediates\pre-dexed\debug\trace_93c273928d9962a252a0b77e0dc2ce6fb1d39160.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pateel\.gradle\caches\modules-2\files-2.1\eu.the4thfloor.volley\com.android.volley\2015.05.28\b0b08cc0ac897e596abe6b263a9507cba875b705\com.android.volley-2015.05.28.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b0b08cc0ac897e596abe6b263a9507cba875b705">
+        <dex dex="C:\new cd\Cometcd\app\build\intermediates\pre-dexed\debug\com.android.volley-2015.05.28_8b62d65f495986cbd32aef597161f007f048e9ec.jar" />
+    </item>
+    <item
+        jar="C:\new cd\Cometcd\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\new cd\Cometcd\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.1_a0776ce756e9dc336975356d46808324bb1185cf.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\menu\\login.xml",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\menu\\login.xml"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\menu\\login.xml",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\menu\\login.xml"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\menu\\login_test.xml",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\menu\\login_test.xml"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\menu\\login_test.xml",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\menu\\login_test.xml"
+    }
+]

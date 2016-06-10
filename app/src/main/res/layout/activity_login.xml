@@ -1,0 +1,180 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_login"
+    tools:context=".LoginActivity" >
+
+    <RelativeLayout
+        android:id="@+id/RelativeParent"
+        android:layout_width="fill_parent"
+        android:layout_height="20dp"
+        android:layout_alignParentTop="true"
+        android:background="#333333" >
+
+        <TextView
+            android:id="@+id/nwLabel"
+            android:layout_width="40dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="26dp"
+            android:background="@drawable/wifi_icon"
+            android:text="56%"
+            android:gravity="end"
+            android:textColor="#ededed"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/textViewBatteryLevel"
+            android:layout_width="40dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:background="@drawable/battery_icon"
+            android:gravity="center"
+            android:text=" 45%"
+            android:textColor="#ededed"
+            android:textSize="18sp" />
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/logohome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/RelativeParent"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"
+        android:src="@drawable/logo" />
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="right" >
+       <ImageButton
+           android:id="@+id/power"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:background="@drawable/power"
+           android:layout_marginTop="20dp"/>
+    </LinearLayout>
+
+
+    <TextView
+        android:id="@+id/errorLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/password"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="23dp"
+        android:textColor="#ffffff"
+        android:textIsSelectable="true"
+        android:textSize="14dp" />
+
+    <TextView
+        android:id="@+id/textViewTripCode"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/errorLabel"
+        android:layout_marginTop="23dp"
+        android:layout_toLeftOf="@+id/textView1"
+        android:textColor="#ffffff"
+        android:textIsSelectable="true" />
+
+    <EditText
+        android:id="@+id/password"
+        android:layout_width="240dp"
+        android:layout_height="40dp"
+        android:layout_alignLeft="@+id/userName"
+        android:layout_below="@+id/userName"
+        android:layout_marginTop="24dp"
+        android:background="@drawable/edittextbg"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="PASSWORD"
+        android:inputType="number"
+        android:textColorHint="#cccccc" />
+
+    <LinearLayout
+        android:id="@+id/linearLay"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:weightSum="2" >
+
+        <Button
+            android:id="@+id/resetButton"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:background="@drawable/reset_button" />
+
+        <TextView
+            android:id="@+id/center"
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:background="#777777" />
+
+        <Button
+            android:id="@+id/loginButton"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_below="@+id/resetButton"
+            android:layout_weight="1"
+            android:background="@drawable/submit_button" />
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/userName"
+        android:layout_width="240dp"
+        android:layout_height="40dp"
+        android:layout_below="@+id/textView1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="64dp"
+        android:background="@drawable/edittextbg"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="USER NAME"
+        android:inputType="number"
+        android:textColorHint="#cccccc" />
+
+    <TextView
+        android:id="@+id/textVersionNo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/textView1"
+        android:layout_alignBottom="@+id/textView1"
+        android:layout_toRightOf="@+id/textView1"
+        android:textColor="#ffffff" 
+        android:layout_marginLeft="2dp"/>
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/logohome"
+        android:layout_below="@+id/logohome"
+        android:layout_marginTop="16dp"
+        android:text="Agiledge Solutions"
+        android:textColor="#ffffff" />
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/textView1"
+        android:layout_marginTop="16dp"
+        android:textSize="16sp"
+        android:text="SHUTTLE SERVICE - WOMEN EMPLOYEES"
+        android:textColor="#ffffff" />
+    
+     <ProgressBar
+         android:id="@+id/progressBar1"
+         style="?android:attr/progressBarStyleLarge"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_alignTop="@+id/errorLabel"
+         android:layout_centerHorizontal="true" />
+
+</RelativeLayout>

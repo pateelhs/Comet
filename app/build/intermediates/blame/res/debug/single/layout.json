@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_trip_download.xml",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\layout\\activity_trip_download.xml"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_trip_download.xml",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\layout\\activity_trip_download.xml"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rowlayout.xml",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\layout\\rowlayout.xml"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\layout\\panicpopup.xml",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\layout\\panicpopup.xml"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_trip.xml",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\layout\\activity_select_trip.xml"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rowlayout.xml",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\layout\\rowlayout.xml"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login_otp_only.xml",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\layout\\activity_login_otp_only.xml"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\layout\\panicactivatedpopup.xml",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\layout\\panicactivatedpopup.xml"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_trip.xml",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\layout\\activity_select_trip.xml"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_trips_show.xml",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\layout\\activity_trips_show.xml"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_trips_show.xml",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\layout\\activity_trips_show.xml"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login_test.xml",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\layout\\activity_login_test.xml"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\layout\\panicpopup.xml",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\layout\\panicpopup.xml"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login_otp_only.xml",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\layout\\activity_login_otp_only.xml"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login_test.xml",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\layout\\activity_login_test.xml"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\layout\\panicactivatedpopup.xml",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\layout\\panicactivatedpopup.xml"
+    }
+]

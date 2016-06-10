@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableRow xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="85dp"
+    android:background="@drawable/actionbar_bg"
+     
+     >
+
+
+
+    <ImageButton
+        android:id="@+id/button2"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+          android:layout_marginTop="10dp"
+        android:layout_marginLeft="3dp"
+        style="?android:attr/buttonStyleSmall"
+         
+        android:src="@drawable/start"
+      />
+
+    <ImageButton
+        android:id="@+id/button3"
+        style="?android:attr/buttonStyleSmall"
+             android:layout_width="70dp"
+        android:layout_height="70dp"
+          android:layout_marginTop="10dp"
+        android:layout_marginLeft="3dp"
+        android:background="@drawable/logout_button"
+        
+        
+          />
+
+    <ImageButton
+        android:id="@+id/imgFlag"
+        android:layout_marginTop="10dp"
+         android:layout_width="70dp"
+        android:layout_height="70dp"
+          android:layout_marginLeft="3dp"
+   android:visibility="gone"
+        />
+
+    <ImageButton
+        android:id="@+id/imageButton1"
+      android:visibility="gone"
+             android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:src="@drawable/escort_auth_img" />
+
+ 
+
+</TableRow>

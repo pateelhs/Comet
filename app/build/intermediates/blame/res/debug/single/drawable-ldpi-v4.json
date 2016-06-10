@@ -1,0 +1,410 @@
+[
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\trip_title_img.jpg",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\trip_title_img.jpg"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\page_background.png",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\page_background.png"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\reset.png",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\reset.png"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\btn_start_bg.xml",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\btn_start_bg.xml"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\btn_start_bg.xml",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\btn_start_bg.xml"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\back.png",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\back.png"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\stop_trip_btn_pressed.png",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\stop_trip_btn_pressed.png"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\fb_bg.png",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\fb_bg.png"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\start_trip_security_flag.png",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\start_trip_security_flag.png"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\start_trip_btn_normal.png",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\start_trip_btn_normal.png"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\stop_trip_btn_focussed.png",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\stop_trip_btn_focussed.png"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\security_icon.png",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\security_icon.png"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\logout_btn_pressed.png",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\logout_btn_pressed.png"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\panic_before.png",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\panic_before.png"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\security_icon.png",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\security_icon.png"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\button_background.xml",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\button_background.xml"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\female_emp_icon.png",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\female_emp_icon.png"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\fb_bg.png",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\fb_bg.png"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\male_emp_icon.png",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\male_emp_icon.png"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\login_page_background.xml",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\login_page_background.xml"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\stop_trip_btn_focussed.png",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\stop_trip_btn_focussed.png"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\logout_btn_normal.png",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\logout_btn_normal.png"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\item_border.xml",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\item_border.xml"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_laungera.png",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\ic_laungera.png"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\reset.png",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\reset.png"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\page_header_background.xml",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\page_header_background.xml"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\page_header_background.xml",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\page_header_background.xml"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\start_trip_security_flag.png",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\start_trip_security_flag.png"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\stop_trip_btn_normal.png",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\stop_trip_btn_normal.png"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\battery_levels.jpg",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\battery_levels.jpg"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\tick.jpg",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\tick.jpg"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\border.xml",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\border.xml"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\logout_btn_normal.png",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\logout_btn_normal.png"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\trip_title_bg1.png",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\trip_title_bg1.png"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\page_background.png",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\page_background.png"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\small_tick.png",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\small_tick.png"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\border.xml",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\border.xml"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\dailog_border.xml",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\dailog_border.xml"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\download.png",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\download.png"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\trip_title_bg.xml",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\trip_title_bg.xml"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\cancel.png",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\cancel.png"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\stop_trip_btn_pressed.png",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\stop_trip_btn_pressed.png"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\escort_auth_img.png",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\escort_auth_img.png"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\edit_text_background.xml",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\edit_text_background.xml"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\logout_btn_focussed.png",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\logout_btn_focussed.png"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\actionbar_bg.xml",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\actionbar_bg.xml"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\start_trip_btn_normal.png",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\start_trip_btn_normal.png"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\mark.png",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\mark.png"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\dark_blue_bg.png",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\dark_blue_bg.png"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\authentication.png",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\authentication.png"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\authentication.png",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\authentication.png"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\mark.png",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\mark.png"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\loading.png",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\loading.png"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\trip_title_bg1.png",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\trip_title_bg1.png"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\go.png",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\go.png"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\trip_info_bg.xml",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\trip_info_bg.xml"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\trip_info_bg.xml",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\trip_info_bg.xml"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\panic_background.xml",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\panic_background.xml"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\start_trip_btn_focussed.png",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\start_trip_btn_focussed.png"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\trip_sheet_title_bg.png",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\trip_sheet_title_bg.png"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\tick.jpg",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\tick.jpg"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\download.png",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\download.png"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\actionbar_bg.xml",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\actionbar_bg.xml"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\btn_stop_bg.xml",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\btn_stop_bg.xml"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\panic.png",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\panic.png"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\logout_btn_pressed.png",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\logout_btn_pressed.png"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\battery_levels.jpg",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\battery_levels.jpg"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\btn_logout_bg.xml",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\btn_logout_bg.xml"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\trip_title_bg.xml",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\trip_title_bg.xml"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\dailog_border.xml",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\dailog_border.xml"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\item_border.xml",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\item_border.xml"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\female_emp_icon.png",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\female_emp_icon.png"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\signin_main.png",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\signin_main.png"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\logout_btn_focussed.png",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\logout_btn_focussed.png"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\back.png",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\back.png"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\stop_trip_btn_normal.png",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\stop_trip_btn_normal.png"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\loading.png",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\loading.png"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\panic.png",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\panic.png"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\trip_title_img.jpg",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\trip_title_img.jpg"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_laungera.png",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\ic_laungera.png"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\range_level.jpg",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\range_level.jpg"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\small_tick.png",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\small_tick.png"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\signin_main.png",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\signin_main.png"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\go.png",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\go.png"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\edit_text_background.xml",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\edit_text_background.xml"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\start_trip_btn_pressed.png",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\start_trip_btn_pressed.png"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\start_trip_btn_focussed.png",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\start_trip_btn_focussed.png"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\dark_blue_bg.png",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\dark_blue_bg.png"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\button_background.xml",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\button_background.xml"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\btn_logout_bg.xml",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\btn_logout_bg.xml"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\login_page_background.xml",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\login_page_background.xml"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\cancel.png",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\cancel.png"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\panic_after.png",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\panic_after.png"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\escort_auth_img.png",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\escort_auth_img.png"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\panic_before.png",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\panic_before.png"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\trip_sheet_title_bg.png",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\trip_sheet_title_bg.png"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\btn_stop_bg.xml",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\btn_stop_bg.xml"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\male_emp_icon.png",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\male_emp_icon.png"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\panic_background.xml",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\panic_background.xml"
+    },
+    {
+        "merged": "P:\\Android projects\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\start_trip_btn_pressed.png",
+        "source": "P:\\Android projects\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\start_trip_btn_pressed.png"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\panic_after.png",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\panic_after.png"
+    },
+    {
+        "merged": "C:\\new cd\\Cometcd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\range_level.jpg",
+        "source": "C:\\new cd\\Cometcd\\app\\src\\main\\res\\drawable-ldpi\\range_level.jpg"
+    }
+]
